@@ -1,2 +1,4 @@
-# DELPHI_APLIKASI_PENJUALAN
- 2210010477 - Tiara Desmitha Oliviany
+# Project_Delphi_Aplikasi_Penjualan
+ 
+# visual-2
+# visual-2
