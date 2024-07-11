@@ -14,7 +14,7 @@ object DataModule4: TDataModule4
     Database = 'db_penjualan'
     User = 'root'
     Protocol = 'mysql'
-    LibraryLocation = 'C:\Users\ASUS\Downloads\libmysql (3).dll'
+    LibraryLocation = 'C:\DELPHI_PENJUALAN\DELPHI_APLIKASI_PENJUALAN\libmysql.dll'
     Left = 16
     Top = 8
   end
@@ -71,6 +71,7 @@ object DataModule4: TDataModule4
   end
   object tbl_penjualan: TZQuery
     Connection = con1
+    Active = True
     SQL.Strings = (
       'SELECT * FROM penjualan')
     Params = <>
