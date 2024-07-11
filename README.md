@@ -1,4 +1,4 @@
-# Project_Delphi_Aplikasi_Penjualan
+# Project Aplikasi Penjualan
  
-# visual-2
-# visual-2
+>[!note]
+>Tiara Desmitha Oliviany - 2210010477 (UAS & UTS)
